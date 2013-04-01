@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              android:orientation="vertical"
+              android:layout_width="match_parent"
+              android:layout_height="match_parent">
+
+    <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/taca_crazy_drivers"
+            android:id="@+id/textView13" android:layout_gravity="center" android:textSize="22dp"/>
+    <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/campeonato_pilotos"
+            android:id="@+id/textView14" android:layout_gravity="center" android:textSize="18dp"/>
+    <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Raphael Gornates - 16 pontos"
+            android:id="@+id/textView" android:layout_gravity="left|center_vertical" android:textSize="16dp"/>
+    <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Lennon Jesus - 13 pontos"
+            android:id="@+id/textView1" android:layout_gravity="left|center_vertical" android:textSize="16dp"/>
+    <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Bruno Ambrózio - 12 pontos"
+            android:id="@+id/textView2" android:layout_gravity="left|center_vertical" android:textSize="16dp"/>
+    <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Evaldo - 10 pontos"
+            android:id="@+id/textView3" android:layout_gravity="left|center_vertical" android:textSize="16dp"/>
+    <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Paulo Vaz - 9 pontos"
+            android:id="@+id/textView4" android:layout_gravity="left|center_vertical" android:textSize="16dp"/>
+    <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Tarcísio Júnior - 8 pontos"
+            android:id="@+id/textView5" android:layout_gravity="left|center_vertical" android:textSize="16dp"/>
+    <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="João - 6 pontos"
+            android:id="@+id/textView6" android:layout_gravity="left|center_vertical" android:textSize="16dp"/>
+    <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Elaine Vidal - 5 pontos"
+            android:id="@+id/textView7" android:layout_gravity="left|center_vertical" android:textSize="16dp"/>
+    <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Alexandre"
+            android:id="@+id/textView8" android:layout_gravity="left|center_vertical" android:textSize="16dp"/>
+    <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Jorge"
+            android:id="@+id/textView9" android:layout_gravity="left|center_vertical" android:textSize="16dp"/>
+    <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Júnior"
+            android:id="@+id/textView10" android:layout_gravity="left|center_vertical" android:textSize="16dp"/>
+    <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Wagner Moreno"
+            android:id="@+id/textView11" android:layout_gravity="left|center_vertical" android:textSize="16dp"/>
+    <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/last_update"
+            android:id="@+id/textView12" android:layout_gravity="center"/>
+</LinearLayout>
